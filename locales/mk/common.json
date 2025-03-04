@@ -1,0 +1,112 @@
+{
+  "home": "Дома",
+  "about us": "Околу нас",
+  "services": "Услуги",
+  "contact": "Контакт",
+
+  "die kunst des handwerks": "Уметноста на занаетчиството",
+  "lass uns fur dich bauen": "Дозволете ни да изградиме за вас",
+  "wir sind die meister im biegen von holz": "Ние сме мајстори за виткање дрво и производство на некои од најуметничките проекти",
+
+  "uber uns": "Околу нас",
+  "header about desc": "Имаме докажано досие за преземање предизвикувачки проекти, фокусирање на услуги на клиентите и надминување на очекувањата на клиентите.",
+  "about us desc": "Lignum Suisse е тим од високо професионални занаетчии кои се супер страствени за својата работа. Ние исто така работиме со најдобрите дизајнери во индустријата и ја имаме на располагање најновата опрема. Ние сме страсни за сè што правиме и имаме повеќе од {{ years }} години искуство.",
+  "startase uber uns desc": "Имаме докажано досие за преземање предизвикувачки проекти, фокусирање на услуги на клиентите и надминување на очекувањата на клиентите. Ние сме страсни за сè што правиме.",
+  "jahrige erfahrung": "Години искуство",
+  "mehr info": "More info",
+
+  "holz biegen": "Свиткување дрво",
+  "wir verfugen uber professionelle maschinen": "Имаме професионални машини кои можат да виткаат дрво за да ги задоволат дизајнерските потреби на вашите проекти.",
+  "dampf erhitze": "Топла пареа",
+  "holzverarbeitung": "Преработка на дрво",
+  "holzarten": "Видови дрво",
+  "langlebige qualitat": "Траен квалитет",
+
+  "alles beginnt mit dem erhitzen des holzes mit heisem dampf": "Сè започнува со загревање на дрвото со топла пареа.",
+  "wir biegen das erhitzte holz und machen es stark": "Загреаното дрво го свиткуваме и го правиме цврсто.",
+  "wir verwenden weiseiche roteiche ulme hickory esche usw": "Користиме бел даб, црвен даб, брест, хикорија, јасен итн.",
+  "unsere holzprodukte sind alterungsbestandig": "Нашите производи од дрво се отпорни на стареење.",
+
+  "neueste projekte": "Најнови проекти",
+  "geniesen sie einige der besten": "Уживајте во некои од најдобрите изработки што некогаш сте ги виделе.",
+
+  "stats_title": "Ние сме мајстори за свиткување дрво и производство на некои од најуметничките проекти од него",
+
+  "stats_title1": "{{years}}+",
+  "stats_desc1": "Години искуство",
+  "stats_title2": "100+",
+  "stats_desc2": "Успешно завршени проекти",
+  "stats_title3": "100%",
+  "stats_desc3": "Посветеност и испорака",
+  "stats_title4": "5+",
+  "stats_desc4": "Видови материјали за избор",
+
+  "unser team": "Нашиот тим",
+  "die vordenker hinter der erstaunlichen handwerkskunst": "Главните умови зад неверојатната изработка!",
+
+  "jeton xhaferi inhaber": "Jeton Xhaferi - Сопственик",
+  "zu beginn des jahres 2016 startete ein neues kapitel": "Zu Beginn des Jahres 2016 startete ein neues Kapitel.",
+  "besuchen sie uns in unserem hölzigen betrieb  wir freuen uns auf sie": "Besuchen Sie uns in unserem hölzigen Betrieb, wir freuen uns auf Sie!",
+
+  "warum wurdest du uns wahlen": "Warum würdest du uns wählen?",
+  "why_us_desc": "Имаме професионални машини кои можат да виткаат дрво за да ги задоволат дизајнерските потреби на вашите проекти.",
+
+  "kundenorientiert": "Customer centrictt",
+  "bezahlbare preise": "Пристапни цени",
+  "innovative ideen": "Иновативни идеи",
+  "schnelle lieferung": "Брза испорака",
+
+  "fur uns ist die kundenzufriedenheit alles was uns am herzen liegt": "За нас, задоволството на клиентите е сè за што се грижиме.",
+  "unsere qualitatsprodukte uberschreiten nicht ihr budget": "Нашите квалитетни производи не се надвор од вашиот буџет.",
+  "alles was wir tun muss ein kunstwerk sein": "Сè што правиме мора да биде парче уметност.",
+  "wir verpflichten uns und liefern punktlich immer": "Ние се обврзуваме и испорачуваме на време, секогаш.",
+
+  "leistungen": "Услуги",
+  "wir haben bewiesen dass das biegen von holz zu einem kunstwerk werden kann": "Докажавме дека виткањето дрво може да стане уметничко дело. Тоа може да биде клупа, стол, двор, подигнат кревет или професионална санка за тобоган.",
+
+  "unubertroffene qualitat": "Неспоредлив квалитет",
+  "berufsausrustung": "Професионална опрема",
+  "original produkte": "Оригинални производи",
+
+  "unsere dienstleistungen": "Нашите услуги",
+  "teilen sie uns mit was sie wollen und wir werden gemeinsam daran arbeiten": "Кажете ни што сакате и ние ќе работиме заедно за да го оствариме тоа.",
+  "alle services": "Сите услуги",
+
+  "professionelle schlitten": "Професионални санки",
+  "banksystem": "Систем на клупи",
+  "schreinerei wagnerei": "Carpentry wagnerei",
+
+  "der davoser schlitten ist eines der bekanntesten schweizer symbole": "Санката Давос е една од најпознатите швајцарски симболи.",
+  "diese Holzbanke sind fur alle nutzungsarten geeignet": "Овие дрвени клупи се погодни за секаков вид на употреба.",
+  "wir können alle in der vergangenheit verwendeten schreinereiprodukte herstellen": "Можеме да направиме кој било столарски производ користен во минатото.",
+
+  "kontakt": "Контакт",
+  "haben sie noch andere holzprojekte im sinn": "Дали имате на ум некои други дрвени проекти? Слободно контактирајте не и со задоволство ќе работиме со вас.",
+
+  "jahre erfahrung": "{{years}} години искуство",
+  "in woodworking": "in Woodworking",
+  "senden sie uns eine e mail oder rufen": "Испратете ни е-пошта или јавете ни се и ќе стапиме во контакт наскоро. Со задоволство би зборувале.",
+  "name": "Име",
+  "e mail adresse": "Е-маил",
+  "botschaft": "Порака",
+  "submit": "Поднесете",
+
+  "telefon": "Телефон",
+  "standort": "Локација",
+
+  "offnungszeiten": "Öffnungszeiten",
+  "montag freitag": "Montag - Freitag:",
+
+  "footer_desc": "Lignum Suisse е тим од високо професионални занаетчии кои се супер страствени за својата работа. Ние исто така работиме со најдобрите дизајнери во индустријата и ја имаме на располагање најновата опрема. ",
+
+  "location": "Индустриска зона - Неготино, Врапчиште, Северна Македонија",
+
+  "sieht aus als warst du im wald verloren": "Sieht aus, als wärst du im Wald verloren...",
+  "die von ihnen gesuchte seite wurde verschoben entfernt": "Die von Ihnen gesuchte Seite wurde verschoben, entfernt, umbenannt oder existierte nie!",
+
+  "copyright": "Alle Rechte vorbehalten von Lignum Land. Gebaut von",
+
+  "geh zuruck": "Geh zurück",
+
+  "app desc": "Lignum Suisse е тим од високо професионални занаетчии кои се супер страствени за својата работа. Ние исто така работиме со најдобрите дизајнери во индустријата и ја имаме на располагање најновата опрема."
+}

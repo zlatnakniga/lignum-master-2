@@ -1,0 +1,11 @@
+
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Allow: /
+Disallow: /cgi-bin/
+Sitemap: https://lignumland.com/sitemap.xml
